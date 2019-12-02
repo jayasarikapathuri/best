@@ -5,6 +5,7 @@ public class Sarika {
 	private String sarika;
 
 	private String mahesh;
+	private String goutham;
 
 	public String getMahesh() {
 		return mahesh;
